@@ -27,7 +27,7 @@ This project is a Movie Dashboard application built with React, Redux, and Tailw
 #### Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AbdulmoizAbdulmaged/Movie-Dashboard.git
    cd movie-dashboard
    ```
 
