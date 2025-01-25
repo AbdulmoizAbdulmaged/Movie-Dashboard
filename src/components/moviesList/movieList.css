@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.container-chart{
+  margin: 0;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: inherit;
+  
+ 
+
+
+} 

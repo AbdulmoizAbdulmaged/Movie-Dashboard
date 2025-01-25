@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.movieItem{
+
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 calc(33.333% - 16px); /* Adjust the percentage to control the number of items per row */
+ 
+  border: 1px solid #f9f9f9;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: all 0.5s;  
+  &:hover {
+    opacity: 1;
+    transform: scale(1.1);
+    color: wheat;
+    background-color: rgb(0,0,0,0.8);
+  }
+}
+
+
